@@ -8,7 +8,7 @@
 
 
   
-- 🌱 I’m currently learning **React,Next**
+- 🌱 I’m currently learning **Microservices, Docker, and Kubernetes.**
 - 💬 Ask me about **MERN Stack development**
 - 📫 How to reach me **easanedumangad@gmail.com**
 
