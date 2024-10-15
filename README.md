@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Easa</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Passionate Full Stack Developer based in India/UAE</h3>
 
 <p align="left">
  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
